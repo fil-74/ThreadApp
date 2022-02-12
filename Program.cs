@@ -15,7 +15,7 @@ namespace ThreadApp
             Generation(file1, file2, file3);
 
             Console.WriteLine("Начало подсчёта");
-            
+             
             var start1 = DateTime.Now;
             double sum1 = Sum(file1, file2, file3);
             var end1 = DateTime.Now;
