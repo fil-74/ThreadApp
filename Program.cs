@@ -8,7 +8,8 @@ namespace ThreadApp
     {
         static void Main(string[] args)
         {
-            
+            int t = 5;
+
             string file1 = "a.txt";
             string file2 = "b.txt";
             string file3 = "c.txt";
